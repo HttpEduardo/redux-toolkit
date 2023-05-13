@@ -1,31 +1,32 @@
 # React  App
-
 ![Todo preview](./src/assets/todoPreview.jpg)
 
-### CI, tests and linter status:
+### CI, tests:
 [![CI](https://github.com/bogdan-ho/todo-list/actions/workflows/CI.yml/badge.svg)](https://github.com/bogdan-ho/todo-list/actions/workflows/CI.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/da65ed83bf72a6cb066e/maintainability)](https://codeclimate.com/github/bogdan-ho/todo-list/maintainability)
 
 
-## About
-✅React Todo application built with React (with hooks), Redux (@redux/toolkit) with adaptive layout using Bootstrap + Formik + Playwright tests + Docker
+## Sobre
+✅Aplicativo React Todo construído com React (com ganchos), Redux (@redux/toolkit) com layout adaptativo usando Bootstrap + Formik + testes Playwright + Docker
 
 
-## Getting Started
-- Clone a repository
-- Go to the working directory of the project `cd playwright-ts-redux-toolkit`
-- Run `make app-setup`
-- Run tests `make app-test`
-- Start the server `make up`
+## Começando
+- Clonar um repositório
+- Vá para o diretório de trabalho do projeto `cd playwright-ts-redux-toolkit`
+- Execute `make app-setup`
+- Execute testes `make app-test`
+- Iniciar o servidor `make up`
 
-## Features
-- Adding, Editing, Deleting and marking Completed tasks
-- Filter tasks by All, Active, Completed
-- Clear all completed tasks by one click
-- Displaying the remaining tasks counter
+## Características
+- Adicionar, editar, excluir e marcar tarefas concluídas
+- Filtrar tarefas por Todos, Ativos, Concluídos
+- Limpe todas as tarefas concluídas com um clique
+- Exibindo o contador de tarefas restantes
 
-## Demo
-Check out the demo project for a quick example of how React Todo application works. 
+## Demonstração
+Confira o projeto de demonstração para um exemplo rápido de como o aplicativo React Todo funciona.
 
-![This is an image](./src/assets/TodoPromo.gif)
-# redux-toolkit
+![Isto é uma imagem](./src/assets/TodoPromo.gif)
+# kit de ferramentas redux
+
+By: Void
