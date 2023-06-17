@@ -28,5 +28,3 @@ Confira o projeto de demonstração para um exemplo rápido de como o aplicativo
 
 ![Isto é uma imagem](./src/assets/TodoPromo.gif)
 # kit de ferramentas redux
-
-By: Void
